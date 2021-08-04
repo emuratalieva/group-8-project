@@ -6,5 +6,6 @@ public class Raphael {
         System.out.println("Glad we are a team");
         System.out.println("Yaay");
         System.out.println("one more code");
+        System.out.println("have a nice day");
     }
 }
