@@ -7,5 +7,6 @@ public class Raphael {
         System.out.println("Yaay");
         System.out.println("one more code");
         System.out.println("have a nice day");
+        System.out.println("......Static Code......");
     }
 }
