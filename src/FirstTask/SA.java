@@ -7,9 +7,7 @@ public class SA {
         System.out.println("Hello Team 8");
         System.out.println("Hello SA");
         System.out.println("Hello Elena");
-
-        System.out.println("Hello hello hello");
-        //one more line of codes
-
+        System.out.println("where is the conflict");
+        System.out.println("Hi");
     }
 }
