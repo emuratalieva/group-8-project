@@ -1,7 +1,10 @@
 package FirstTask;
 
-public class TM {
+public class Inesa {
+
     public static void main(String[] args) {
-        System.out.println("Tinbite");
+
+        System.out.println("Hello group 8");
     }
+
 }
